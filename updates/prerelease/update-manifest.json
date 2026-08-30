@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "channel": "prerelease",
+  "version": "2.0.0-beta.6",
+  "published_at": "2026-08-30T05:44:07.8271392Z",
+  "installer_url": "https://github.com/ruhorh66-rgb/airks/releases/download/v2.0.0-beta.6/AIRKS-Setup-v2.0.0-beta.6.exe",
+  "installer_sha256": "469ba93fdc2da7b39f85c17fc76e7f8a57920c104b485e9c13e5349857b54c52",
+  "installer_size": 31343104,
+  "installer_signature": "mC8koez+TzpD5uorIOUiNMusMVBMMLNUEA2KvXkE2UuAki3/jo/LccPCaqS8GA1XGog8UqpPBom3x1WAqLDfBg==",
+  "manifest_signature_v2": "jFqEQw+AFCzHd4kU2zX4eXy5077TrZxSZx/e5w/aVwYG7/fuar4uM147JEORa2A314zcbSfSri+z4VDX1Cr7DQ==",
+  "signing_key_id": "airks-update-2026-01",
+  "release_notes_url": "https://github.com/ruhorh66-rgb/airks/releases/tag/v2.0.0-beta.6"
+}
