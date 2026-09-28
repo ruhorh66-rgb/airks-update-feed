@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "channel": "prerelease",
-  "version": "4.0.0-beta.2",
-  "published_at": "2026-09-24T15:46:22.2764369Z",
-  "installer_url": "https://github.com/ruhorh66-rgb/airks-update-feed/releases/download/v4.0.0-beta.2/AIRKS-Setup-v4.0.0-beta.2.exe",
-  "installer_sha256": "0faf0e7a690568d93e58676bd3e555020cb36ddb0af2471265719de1d3382a08",
+  "version": "4.0.0-beta.3",
+  "published_at": "2026-09-28T14:24:46.5212912Z",
+  "installer_url": "https://github.com/ruhorh66-rgb/airks-update-feed/releases/download/v4.0.0-beta.3/AIRKS-Setup-v4.0.0-beta.3.exe",
+  "installer_sha256": "8b0b874e12324c6b19996d339d36924e73e10f67a9961ffb72375a12ce97bd91",
   "installer_size": 7133184,
-  "installer_signature": "Ir1vqtAz55OQee8HBl5+8r4E+1rvMWyR7gdAfrY8s/tlmSHKJQwYcKLD/jbr5Wa6jc9Zn4Ifm7RRpKPo0qbhAQ==",
-  "manifest_signature_v2": "cxwy+u/pFQMlCMGeJpczdG1X49Q5Bw02RBCCuL9/gYrA15PQoerOTGstyzTdzRA7FysAqs9qSCiihqQ6DsM9Bg==",
+  "installer_signature": "/biOh5R8rdKHkZ98Hz87sNgsGx24W9FS/YqLVSLfuP7WnZCsG9AAZR7uc4cX+SqWs3PwlS7M3GZL60y2POTaCA==",
+  "manifest_signature_v2": "LV4MngWsoxTcj1HSq4tyUzc8FCcO90K0YfDjdOzKD+gufV/60ck2B+iwpCjbmjo3VyLBQQsRp2+pq+mfNeygCQ==",
   "signing_key_id": "airks-update-2026-01",
-  "release_notes_url": "https://github.com/ruhorh66-rgb/airks-update-feed/releases/tag/v4.0.0-beta.2"
+  "release_notes_url": "https://github.com/ruhorh66-rgb/airks-update-feed/releases/tag/v4.0.0-beta.3"
 }
